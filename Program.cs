@@ -73,8 +73,8 @@ class Program
     static void Main()
     {
 
-        ClassA A = new ClassA();
-        A.data = 10;
+        //ClassA A = new ClassA();
+        //A.data = 10;
 
 
         //Dictionary<string, int> metrica = new Dictionary<string, int> { { "mm", 1 }, { "cm", 10 }, { "dm", 100 } };
